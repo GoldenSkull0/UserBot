@@ -736,7 +736,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 6969$ to` @shivamkchoudhary `To Remove This Hack...`\n"
+                "`Pay 6969$ to`@GoldenSkull_xD `To Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
